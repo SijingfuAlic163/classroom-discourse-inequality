@@ -1,0 +1,6 @@
+teacher_text,student_text,label
+"Explain why the answer must be this one.","I think it follows from the example, but I am not fully sure.",0
+"Stop discussing and copy the solution exactly.","Okay.",1
+"Can you build on Maya's idea?","Yes, the second example shows the same pattern.",0
+"No questions; use the method I gave you.","I will use it.",1
+
